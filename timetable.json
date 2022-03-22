@@ -1,0 +1,44 @@
+{
+    "PDE3413 Lecture+Lab":{
+        "name" : "PDE3413 - Robotics",
+        "link" : "https://www.play.mdx.ac.uk/meetings/231098583/MUM_PDE3413",
+        "time" : "10:30",
+        "day" : "1"
+    },
+    "CST2560 Lecture":{
+        "name" : "CST2560 - Project Management Lecture",
+        "link" : "https://www.play.mdx.ac.uk/meetings/230906893/MUM_CST2560",
+        "time" : "15:30",
+        "day" : "1"
+    },
+    "CST2550 Lecture":{
+        "name" : "CST2550 - Software Engineering Lecture",
+        "link" : "https://www.play.mdx.ac.uk/meetings/230764323/MUM_CST2550_21",
+        "time" : "11:30",
+        "day" : "2"
+    },
+    "CST2120 Lecture":{
+        "name" : "CST2120 - Web Application Lecture",
+        "link" : "https://www.play.mdx.ac.uk/meetings/230750763/MUM_CST2120_2021_2022",
+        "time" : "13:30",
+        "day" : "2"
+    },
+    "CST2120 Lab":{
+        "name" : "CST2120-Web application lab",
+        "link" : "https://www.play.mdx.ac.uk/meetings/231473923/MUM_CST2120_2021_2022_Lab+B",
+        "time" : "9:30",
+        "day" : "3"
+    },
+    "CST2550 Lab":{
+        "name" : "CST2550 - Software Engineering Lecture",
+        "link" : "https://www.play.mdx.ac.uk/meetings/230764323/MUM_CST2550_21",
+        "time" : "14:30",
+        "day" : "3"
+    },
+    "CST2560 Lab":{
+        "name" : "CST2560 - Project Management Lab",
+        "link" : "https://www.play.mdx.ac.uk/meetings/232726543/MUM_CST2560%28Oct+21%29-+Lab+2",
+        "time" : "9:30",
+        "day" : "5"
+    }
+}

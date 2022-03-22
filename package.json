@@ -1,0 +1,19 @@
+{
+  "name": "automdx-public",
+  "version": "1.0.0",
+  "description": "automatic login for MDXplay",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanm0301/autoMDX-public.git"
+  },
+  "author": "Hassanm0301@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanm0301/autoMDX-public/issues"
+  },
+  "homepage": "https://github.com/hassanm0301/autoMDX-public#readme"
+}
